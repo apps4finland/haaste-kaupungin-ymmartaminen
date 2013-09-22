@@ -14,6 +14,9 @@ muuttamiseksi
 * eri sektoreilla (terveydenhuollossa, koulutuksessa, infrastruktuurissa jne.)
 * eri kaupunginosissa
 
+Ratkaisusi pitää mahdollistaa helsinkiläisten informoidumpi osallistuminen kaupungin toiminnan
+kehittämiseen nykyhetkessä tulevaisuudessa. 
+
 [ [lisätietoa haasteesta](taustatietoa.md) ] [ [inspiraatioksi](inspiraatioksi.md) ]
 
 ## Osallistu Apps4Finland-kisaan
