@@ -8,7 +8,7 @@ Kaupungit ova jatkuvassa muutoksen tilassa. Suunnitelmia tehdään eri yksiköis
 menetelmin. Suunnittelusta on tulossa jatkuvasti osallistuvampaa, mutta tiedonkulun parantaminen ja siiloutumisen
 estäminen vaativat myös jatkuvia ponnistuksia. Työkalujen ja toimintatapojen kehittäminen kaupunkilaisten
 ymmärryksen kasvattamiseksi kaupungin toiminnan suunnittelussa on tämän haasteen ydin. Kuinka voimme
-parhaiten antaa yleiskuvan Helsingin kaupungin menneistä, nykyisistä ja tulevista suunnitelmista kaupungin
+parhaiten antaa _tilannekuvan_ Helsingin kaupungin menneistä, nykyisistä ja tulevista suunnitelmista kaupungin
 muuttamiseksi
 * yhteistyössä yksityisten yritysten tai muiden toimijoiden kanssa
 * eri sektoreilla (terveydenhuollossa, koulutuksessa, infrastruktuurissa jne.)
