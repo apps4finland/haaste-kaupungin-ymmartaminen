@@ -1,4 +1,4 @@
-Kunnat ja kaupungit ovat alkaneet avata kiihtyvällä tahdilla julkisia tietovarantojaan kehittäjien käyttöön 
+Kunnat ja kaupungit ovat alkaneet avata kiihtyvällä tahdilla julkisia tietovarantojaan kehittäjien käyttöön.
 Pääkaupunkiseudulla parhaiten tunnettuja esimerkkejä edustavat [Helsinki Region Inforshare](http://www.hri.fi/fi/)
 sekä Helsingin kaupungin päätöksentekojärjestelmän
 [Open Ahjo](http://www.hri.fi/fi/ajankohtaista/open-ahjo-rajapinta-helsingin-asiakirjajarjestelmaan-avautui/)-rajapinta.
